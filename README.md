@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/mobin2706/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mobin2706/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3934-smallest-unique-subarray](https://github.com/mobin2706/LeetCode/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/mobin2706/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mobin2706/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/mobin2706/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Math
 |  |
 | ------- |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/mobin2706/LeetCode/tree/master/3360-stone-removal-game) |
+## Greedy
+|  |
+| ------- |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/mobin2706/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 <!---LeetCode Topics End-->
